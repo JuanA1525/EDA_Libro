@@ -1,0 +1,15 @@
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\bin\Debug\net6.0\c_Libro.exe
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\bin\Debug\net6.0\c_Libro.deps.json
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\bin\Debug\net6.0\c_Libro.runtimeconfig.json
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\bin\Debug\net6.0\c_Libro.dll
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\bin\Debug\net6.0\c_Libro.pdb
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.csproj.AssemblyReference.cache
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.AssemblyInfoInputs.cache
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.AssemblyInfo.cs
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.csproj.CoreCompileInputs.cache
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.dll
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\refint\c_Libro.dll
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.pdb
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\c_Libro.genruntimeconfig.cache
+C:\Users\juana\OneDrive - UPB\ESTRUCTURAS DE DATOS Y ALGORITMOS\Taller Practico #3\c_Libro\c_Libro\obj\Debug\net6.0\ref\c_Libro.dll
